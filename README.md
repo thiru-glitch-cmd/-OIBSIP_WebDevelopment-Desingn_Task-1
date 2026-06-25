@@ -1,4 +1,4 @@
-# BiteBuddy - Food Delivery Landing Page
+# Task-1 : BiteBuddy - Food Delivery Landing Page
 
 A modern, responsive, and visually appealing landing page for a food delivery web application called **BiteBuddy**, built using clean semantic HTML5 and vanilla CSS.
 
